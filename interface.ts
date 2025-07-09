@@ -1,4 +1,5 @@
 //console.log("hello typescript!");
+//console.log("nalimot na ko mag ts!!!");
 interface Directory {
   addFile: (name: string) => void;
 }
